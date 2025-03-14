@@ -20,7 +20,7 @@ Implemented based on the well-known open-source framework [JUCE](https://github.
 
 ## Running Effect
 
-(Add screenshots or GIFs here to showcase the running effect)
+![image](https://github.com/user-attachments/assets/14f197eb-2786-40af-9946-7566d711ea1c)
 
 ## Contributions
 
